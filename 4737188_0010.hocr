@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737188_0010.png"; bbox 0 0 1771 3043; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 247 1302 1539 1459">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 247 1302 1539 1459">
+     <span class='ocr_line' id='line_1_1' title="bbox 247 1302 1294 1382; baseline 0.009 -29"><span class='ocrx_word' id='word_1_1' title='bbox 247 1302 505 1375; x_wconf 61' lang='grc' dir='ltr'><strong><em>,“Ἠμςιρτον</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 536 1305 568 1366; x_wconf 74' lang='grc' dir='ltr'><strong><em>ἢ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 602 1310 737 1373; x_wconf 76' lang='grc' dir='ltr'><strong><em>θηρῶ</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 750 1311 753 1324; x_wconf 76' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 770 1328 814 1382; x_wconf 63' lang='grc' dir='ltr'><strong><em>τρ</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 847 1308 1044 1379; x_wconf 63' lang='grc' dir='ltr'><strong><em>τοξότης,ξ</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1065 1331 1133 1377; x_wconf 55' lang='grc' dir='ltr'><strong><em>ηις</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1169 1311 1241 1369; x_wconf 77' lang='grc' dir='ltr'><strong><em>ὥς.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1292 1361 1294 1363; x_wconf 85' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 448 1384 1539 1459; baseline 0.012 -19"><span class='ocrx_word' id='word_1_10' title='bbox 448 1384 451 1388; x_wconf 34' lang='grc'><strong>”</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 590 1389 592 1392; x_wconf 33' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_12' title='bbox 891 1389 893 1391; x_wconf 21' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_13' title='bbox 1192 1412 1381 1459; x_wconf 76' lang='lat' dir='ltr'><strong>Aeschyl.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1406 1415 1539 1459; x_wconf 79' lang='lat' dir='ltr'>Agam.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
